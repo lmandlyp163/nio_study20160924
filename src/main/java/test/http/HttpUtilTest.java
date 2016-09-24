@@ -1,6 +1,8 @@
-package com.jenkov.nioserver.http;
-
+package test.http;
 import org.junit.Test;
+
+import com.jenkov.nioserver.http.HttpHeaders;
+import com.jenkov.nioserver.http.HttpUtil;
 
 import java.io.UnsupportedEncodingException;
 

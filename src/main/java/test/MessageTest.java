@@ -1,14 +1,16 @@
-package com.jenkov.nioserver;
+package test;
+
+
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertSame;
+
+import java.nio.ByteBuffer;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertSame;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNotSame;
-
-import java.nio.ByteBuffer;
+import com.jenkov.nioserver.Message;
+import com.jenkov.nioserver.MessageBuffer;
 
 
 /**

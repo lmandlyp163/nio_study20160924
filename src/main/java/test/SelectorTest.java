@@ -1,4 +1,6 @@
-package com.jenkov.nioserver;
+package test;
+
+
 
 import org.junit.Test;
 
