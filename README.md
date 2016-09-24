@@ -1,2 +1,2 @@
-# nio_study20160924
-nio_study20160924  nio学习
+# java-nio-server
+A Java NIO Server using non-blocking IO all the way through.
